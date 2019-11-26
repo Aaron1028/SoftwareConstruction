@@ -118,6 +118,5 @@ public class Test01 {
         T.PrintEquations();
         T.PrintBottom();
         T.PrintValue();
-
     }
 }
