@@ -1,3 +1,13 @@
+/****************************************************\
+Author Info:
+        Name:张宥一           ID: 201609009 
+Module Name:
+        CalculateProject
+History:
+        Created on 2019/11/8 by 张宥一
+        Modified on 2019/11/15 by 张宥一
+\****************************************************/
+
 package test;
 
 import java.util.Random;
